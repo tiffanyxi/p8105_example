@@ -1,9 +1,10 @@
 ---
 title: "Simple document"
-output: html_document
+output: github_document
 ---
 
-I'm an R Markdown document! 
+**This process (commit > pull > push) can help keep you out of trouble, although other approaches are possible.**
+
 
 # Section 1
 
