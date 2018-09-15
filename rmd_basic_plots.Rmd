@@ -1,3 +1,9 @@
+---
+title: "Basic plots"
+output: html_document
+---
+
+
 ```{r setup, include = FALSE}
 library(tidyverse)
 ```
