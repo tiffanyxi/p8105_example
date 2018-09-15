@@ -1,3 +1,3 @@
 # p8105_example
 
-quick repo
+Quick example repo for in-class git demo
